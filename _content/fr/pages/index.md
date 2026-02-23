@@ -21,12 +21,12 @@ dataList: []
 
 {% sectionGrid %}
 
-{% grid type="grid-fluid", columns="1" %}
+{% grid type="grid-fluid", columns="2", gap="--step-6" %}
 {% gridItem %}
-{% image src="/_images/poko-logo-rvb.webp" %}
+{% image src="/_images/poko-logo-rvb.webp", width="1000" %}
 {% endgridItem %}
 {% gridItem %}
-{% image src="/_images/poko-logo-rvb.webp" %}
+{% image src="/_images/poko-logo-rvb.webp", width="500" %}
 {% endgridItem %}
 {% endgrid %}
 
