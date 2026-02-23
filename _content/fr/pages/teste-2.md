@@ -8,7 +8,7 @@ name: teste 2
 eleventyNavigation:
   title: ''
   parent: teste
-  order: 1
+  order: 2
 metadata: null
 preview: null
 tags: []
