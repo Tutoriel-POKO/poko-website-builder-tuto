@@ -25,7 +25,29 @@ colors:
     value: '#000000'
   - name: blanc
     value: '#ffffff'
-palettes: []
+palettes:
+  - name: RGB
+    text: noir
+    bg: blanc
+    accent: bleu
+    border: jaune
+    text-decoration: rouge
+    text--marker: bleu
+    advancedDefaults: null
+    selection:
+      text--selection: blanc
+      bg--selection: noir
+    strong: null
+    em: null
+    mark: null
+    b: null
+    heading: null
+    a: null
+    button: null
+    code: null
+    svg: null
+    scrollbar: null
+    advanced: null
 styleContexts:
   - name: main
     value: ctx
