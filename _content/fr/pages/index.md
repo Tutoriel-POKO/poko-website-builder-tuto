@@ -5,7 +5,10 @@ createdAt: 2026-02-23T11:40:00.000Z
 uuid: feafb13fd9e5
 localizationKey: 162014ff3519
 name: Tuto POKO
-eleventyNavigation: null
+eleventyNavigation:
+  title: ''
+  parent: ''
+  order: 1
 metadata: null
 preview: null
 tags: []
