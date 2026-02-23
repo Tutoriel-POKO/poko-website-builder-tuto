@@ -1,0 +1,13 @@
+siteName: Tuto POKO
+productionUrl: https://tutoriel-poko.github.io/poko-website-builder-tuto
+logo: /_images/poko-logo-rvb.webp
+htmlHead: ''
+cssHead: ''
+languages:
+  - code: fr
+    status: published
+    keepUrlPrefix: false
+collections:
+  - projects
+  - documentations
+  - articles
