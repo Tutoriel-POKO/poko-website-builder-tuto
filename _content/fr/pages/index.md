@@ -15,8 +15,19 @@ tags: []
 status: ''
 pageLayout: ''
 generatePage: ''
-vars: {}
+vars: null
 dataList: []
 ---
 
-{% link url="/_images/poko-logo-rvb.webp", text="Tuto POKO. Le retour de la revanche qui contrattaque 2.", linkType="file" %}
+{% sectionGrid %}
+
+{% grid type="grid-fluid", columns="3" %}
+{% gridItem %}
+{% image src="/_images/poko-logo-rvb.webp" %}
+{% endgridItem %}
+{% gridItem %}
+{% image src="/_images/poko-logo-rvb.webp" %}
+{% endgridItem %}
+{% endgrid %}
+
+{% endsectionGrid %}
