@@ -21,7 +21,7 @@ dataList: []
 
 {% sectionGrid %}
 
-{% grid type="grid-fluid", columns="2", gap="--step-6" %}
+{% grid type="switcher" %}
 {% gridItem %}
 {% image src="/_images/poko-logo-rvb.webp", width="1000" %}
 {% endgridItem %}
