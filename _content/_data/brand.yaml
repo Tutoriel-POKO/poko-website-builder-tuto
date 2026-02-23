@@ -46,7 +46,9 @@ palettes:
     button: null
     code: null
     svg: null
-    scrollbar: null
+    scrollbar:
+      track-color: rouge
+      thumb-color: rouge
     advanced: null
 styleContexts:
   - name: main
