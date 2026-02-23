@@ -1,0 +1,11 @@
+items:
+  - linkTo:
+      type: pages
+      slug: index
+      label: ''
+      subItems: []
+  - linkTo:
+      type: pages
+      slug: teste-2
+      label: ''
+      subItems: []
