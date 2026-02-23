@@ -7,7 +7,7 @@ localizationKey: 877886ae9833
 name: teste 2
 eleventyNavigation:
   title: ''
-  parent: ''
+  parent: teste
   order: 1
 metadata: null
 preview: null
