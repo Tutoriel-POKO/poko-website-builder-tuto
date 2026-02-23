@@ -13,13 +13,14 @@ fontStacksContexts:
     code:
       native: monospace-code
 customFontsImport: []
-typeScales:
-  - name: main
-    minFontSize: 18
-    maxFontSize: 20
-    minTypeScale: 1.2
-    maxTypeScale: 1.25
-colors: []
+typeScales: []
+colors:
+  - name: bleu
+    value: '#2813ec'
+  - name: rouge
+    value: '#f00000'
+  - name: vert
+    value: '#47ec00'
 palettes: []
 styleContexts:
   - name: main
