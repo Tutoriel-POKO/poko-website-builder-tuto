@@ -19,4 +19,4 @@ vars: {}
 dataList: []
 ---
 
-{% image src="/_images/poko-logo-rvb.webp", alt="C'est le logo de POKO", width="600", title="Logo", loading="eager" %}
+{% icon "simple:graphite" %}
