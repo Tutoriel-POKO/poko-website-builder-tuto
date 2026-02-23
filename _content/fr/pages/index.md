@@ -1,5 +1,5 @@
 ---
-translationKey: teste
+translationKey: index
 lang: fr
 createdAt: 2026-02-23T09:30:00.000Z
 uuid: a38a3acae4ae
