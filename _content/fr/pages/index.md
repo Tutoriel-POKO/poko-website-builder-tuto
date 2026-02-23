@@ -6,7 +6,7 @@ uuid: a38a3acae4ae
 localizationKey: 59f91e041780
 name: teste
 eleventyNavigation:
-  title: ''
+  title: Teste
   parent: ''
   order: 0
 metadata: null
@@ -15,7 +15,7 @@ tags: []
 status: ''
 pageLayout: ''
 generatePage: ''
-vars: {}
+vars: null
 dataList: []
 ---
 
