@@ -19,15 +19,18 @@ vars: null
 dataList: []
 ---
 
-{% sectionGrid %}
+{% sectionTwoColumns %}
 
-{% grid type="switcher" %}
-{% gridItem %}
-{% image src="/_images/poko-logo-rvb.webp", width="400" %}
-{% endgridItem %}
-{% gridItem %}
-{% image src="/_images/poko-logo-rvb.webp", width="200" %}
-{% endgridItem %}
-{% endgrid %}
+{% twoColumns type="fixedFluid", fixedSide="fixedLeft", widthFixed="200", widthFluidMin="500" %}
+{% twoColumnsItem %}
+![](/_images/poko-logo-rvb.webp)
 
-{% endsectionGrid %}
+Bla Blablaaaa
+{% endtwoColumnsItem %}
+{% twoColumnsItem %}
+![](/_images/poko-logo-rvb.webp)
+
+{% endtwoColumnsItem %}
+{% endtwoColumns %}
+
+{% endsectionTwoColumns %}
