@@ -19,4 +19,4 @@ vars: {}
 dataList: []
 ---
 
-{% icon "simple:graphite" %}
+{% link url="/_images/poko-logo-rvb.webp", text="Tuto POKO. Le retour de la revanche qui contrattaque 2.", linkType="file" %}
