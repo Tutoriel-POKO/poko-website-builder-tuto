@@ -23,10 +23,10 @@ dataList: []
 
 {% grid type="switcher" %}
 {% gridItem %}
-{% image src="/_images/poko-logo-rvb.webp", width="1000" %}
+{% image src="/_images/poko-logo-rvb.webp", width="400" %}
 {% endgridItem %}
 {% gridItem %}
-{% image src="/_images/poko-logo-rvb.webp", width="500" %}
+{% image src="/_images/poko-logo-rvb.webp", width="200" %}
 {% endgridItem %}
 {% endgrid %}
 
