@@ -1,5 +1,5 @@
 ---
-translationKey: tuto-poko
+translationKey: index
 lang: fr
 createdAt: 2026-02-23T11:40:00.000Z
 uuid: feafb13fd9e5
