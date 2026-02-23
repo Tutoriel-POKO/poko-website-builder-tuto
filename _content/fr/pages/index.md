@@ -55,3 +55,5 @@ dataList: []
 {% endgrid %}
 
 {% endsectionGrid %}
+
+{% link url="teste-2", text="Tetse 2", linkType="internal", collection="pages" %}
