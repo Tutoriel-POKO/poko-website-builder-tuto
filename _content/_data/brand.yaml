@@ -21,6 +21,10 @@ colors:
     value: '#f00000'
   - name: jaune
     value: '#fdf81e'
+  - name: noir
+    value: '#000000'
+  - name: blanc
+    value: '#ffffff'
 palettes: []
 styleContexts:
   - name: main
