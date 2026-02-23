@@ -19,8 +19,8 @@ colors:
     value: '#2813ec'
   - name: rouge
     value: '#f00000'
-  - name: vert
-    value: '#47ec00'
+  - name: jaune
+    value: '#fdf81e'
 palettes: []
 styleContexts:
   - name: main
