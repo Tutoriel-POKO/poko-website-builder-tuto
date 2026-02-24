@@ -18,19 +18,3 @@ generatePage: ''
 vars: null
 dataList: []
 ---
-
-{% sectionTwoColumns %}
-
-{% twoColumns type="fixedFluid", fixedSide="fixedLeft", widthFixed="200", widthFluidMin="500" %}
-{% twoColumnsItem %}
-![](/_images/poko-logo-rvb.webp)
-
-Bla Blablaaaa
-{% endtwoColumnsItem %}
-{% twoColumnsItem %}
-![](/_images/poko-logo-rvb.webp)
-
-{% endtwoColumnsItem %}
-{% endtwoColumns %}
-
-{% endsectionTwoColumns %}
